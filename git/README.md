@@ -19,6 +19,7 @@ Make your edits. Then,
 ```
 git add [files or directories]
 git commit -m "Fix the secret loophole in loophole.c"
+```
 
 ## Update your copy
 If you haven't coded for a bit and want to be sure that you're not going to have any merge conflicts, run:
